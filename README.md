@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on something cool!
-- 🌱 I’m currently learning Git and AWS
+- 🌱 I’m currently learning Git and AWS for DevOps project management.
 - 😄 Pronouns: He/Him
